@@ -1,0 +1,8 @@
+baseURL = "https://macleinn.github.io/"
+languageCode = "en-us"
+title = "Journal"
+theme = "code-editor"
+
+[params]
+    author = "macleinn"
+    locale = "en-US"
