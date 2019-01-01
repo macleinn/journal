@@ -2,6 +2,7 @@ baseURL = "https://macleinn.github.io/"
 languageCode = "en-us"
 title = "Journal"
 theme = "code-editor"
+enableEmoji = true
 
 [params]
     author = "macleinn"
