@@ -1,7 +1,6 @@
-[submodule "public"]
-	path = public
-	url = git@github.com:macleinn/macleinn.github.io.git
-	branch = master
 [submodule "themes/code-editor"]
 	path = themes/code-editor
 	url = git@github.com:macleinn/hugo-code-editor-theme.git
+[submodule "public"]
+	path = public
+	url = git@github.com:macleinn/macleinn.github.io
